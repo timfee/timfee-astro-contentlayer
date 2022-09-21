@@ -1,0 +1,24 @@
+{
+  "name": "timfee-astro-contentlayer",
+  "author": "Tim Feeley <tim@timfeeley.com>",
+  "license": "MIT",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^1.2.8"
+  },
+  "devDependencies": {
+    "builtin-modules": "3.3.0",
+    "contentlayer": "^0.2.8",
+    "esbuild": "0.14.53",
+    "prettier": "^2.7.1"
+  }
+}
